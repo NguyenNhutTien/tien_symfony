@@ -1,0 +1,63 @@
+easy_admin:
+    site_name: '<b><i>TrueProfile Backend</i></b></br><img width="200" height="70" src="https://symfony.com/logos/symfony_white_01.png"/>'
+    user:
+        display_name: true
+        display_avatar: true
+    design:
+        menu:
+            -   label: 'User & Post'
+                children:
+                    - { entity: 'User', icon: 'user', target: '_blank'}
+                    - { entity: 'Post', icon: 'house', params: { sortField: 'publish_at', sortDirection: 'ASC' }}
+            -   label: 'Category & Product'
+                children:
+                    - { entity: 'Category', icon: ''}
+                    - { entity: 'Product', icon: '', label: 'Team''s Product' }
+    entities:
+        #        # List the entity class name you want to manage
+        Product:
+            class: App\Entity\Product
+        Category:
+            class: App\Entity\Category
+        User:
+            class: App\Entity\User
+            controller: App\Controller\UserController
+            list:
+                fields:
+                    - {property: 'name', type: 'raw'}
+        Post:
+            class: App\Entity\Post
+            label: 'Posts'
+            help: 'Global message displayed in all views'
+            form:  # <-- 'form' is applied to both 'new' and 'edit' views
+                title: 'Add/Edit the form'
+                fields:
+                    - { type: 'group', label: 'Post Details' }
+                    - { property: 'title', type: 'text', label: 'title'}
+#                    - { property: 'slug', type: 'text', label: 'slug'}
+                    - { property: 'author', type: 'easyadmin_autocomplete', type_options: { class: 'App\Entity\User' } }
+                    - { property: 'publish_at', type_options: { widget: 'single_text' }}
+                    - { type: 'group', label: 'Content section' }
+                    - { property: 'content', type: 'text_editor'}
+                    - { property: 'isPublish', type: 'text'}
+            list:
+                title: '%%entity_label%%'
+                help: 'The list view overrides the global help message'
+                filters: ['id']
+                collapse_actions: true
+                batch_actions: [{ name: 'delete', ask_confirm: false }]
+                actions:
+                    - { name: 'edit', icon: 'pencil' }
+                fields:
+                    - id
+                    - { property: 'title'}
+                    - { property: 'content'}
+                    - { property: 'author.email', label: 'Author email'}
+                    - { property: 'publish_at', css_class: 'text-right', sortable: false}
+                    - { property: 'isPublish', type: 'toggle'}
+                sort:
+                    - publish_at
+                    - DESC
+#            form_theme:
+#                - '@EasyAdmin/form/bootstrap_4.html.twig'
+#                - 'admin/form.html.twig'

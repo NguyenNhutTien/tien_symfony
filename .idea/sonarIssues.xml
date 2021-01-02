@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.bitnami/stackman/machines/xampp/volumes/root/htdocs/menorah-oes-v1.1/local/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NguyenNhutTien.github.io/develop.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NguyenNhutTien.github.io/feature-1.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Symfony5---The-REST-the-CRUD-and-the-Swag/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/.env.local">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/composer.lock">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/config/packages/framework.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/config/packages/messenger.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/config/services.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/AdminBundle/Controller/ActivationController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/AdminBundle/Controller/BaseController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/AdminBundle/Controller/User1Controller.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/AdminBundle/Controller/UserCaseController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/AdminBundle/Controller/UserProController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/AdminBundle/Service/Partner/PartnerManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/AdminBundle/Service/SingleCheck/PDFRender.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/AdminBundle/Service/SingleCheck/TrueProofFileManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Command/MigratePaymentMethod.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Command/MigrateSingleCheckCommand.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/AsyncTaskConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/BaseConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/DataTransferConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/IpTrackingConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/LoggerConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/MappingDataFromDFClientConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/MigrateNewVerificationConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/MyReportCheckConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/SendMailTemplateConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/SequenceTaskConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/TrueProofGettingDataConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Consumer/UserErasureConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Controller/DefaultController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Controller/HashGeneratorController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Controller/SettingController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Controller/User/UserLoginController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Controller/UserController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Resources/config/services.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Security/ApiTokenAuthenticator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/DataTransfer/DataTransferService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/MailService/Message/MessageFactoryAbstract.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/MailService/SendEmailService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/MailService/SendGrid/MailerService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/MailService/ff.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/Manager/EmailScheduleManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/Manager/PermissionManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/Manager/UserErasedManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/Manager/VeriFlowNotificationManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/Object/Message/SendMailMessage.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/ApiBundle/Service/Payment/PaymentService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/PartnerBundle/Controller/ContactController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/PartnerBundle/Controller/SecurityController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/PartnerBundle/Controller/UserController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/PartnerBundle/Resources/config/routing.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/Repository/PartnerRepository.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/Repository/SettingsRepository.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/src/Repository/UserRepository.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/symfony.lock">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Archive/MyReportCheckConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Archive/VeriFlowAPITest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/AdminBundle/Service/Repository/SettingRepositoryTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/AdminBundle/Service/Repository/SingleCheckRepositoryTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/AdminBundle/Service/SingleCheck/FileHelperTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/AdminBundle/Service/SingleCheck/ReportParserTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/AdminBundle/Service/SingleCheck/SingleCheckManagerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/AdminBundle/Service/SingleCheck/TrueProofFileManagerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/AdminBundle/Service/SingleCheck/TrueProofNotarizationManagerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/AdminBundle/Service/SingleCheck/VeriFlowAPITest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/ApiBundle/Consumer/AsyncTaskConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/ApiBundle/Consumer/MappingDataFromDFClientConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/ApiBundle/Consumer/MyReportCheckConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/ApiBundle/Consumer/MyReportConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/ApiBundle/Consumer/TrueProofGettingDataConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Functional/TestHelper/ServiceTestCase.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/AdminBundle/Controller/ActivationControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/AdminBundle/Controller/UseCaseControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/AsyncTaskConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/DataTransferConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/IpTrackingConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/IpTrackingConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/LoggerConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/MappingDataFromDFClientConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/MyReportCheckConsumer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/MyReportCheckConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/SendMailTeamplateConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/SendMailTemplateConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/SequenceTaskConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/TrueProofGettingDataConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/UserErasureConsumerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Consumer/classA.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Controller/DefaultControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Controller/User/UserLoginControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Service/MailService/SendEmailServiceTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/ApiBundle/Service/TrueProof/Validator/TrueProofValidatorTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/BaseUnitTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/tests/Unit/Security/Voter/UserVoterTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/var/log/dev-2020-04-28.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/vendor/symfony/templating/EngineInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/vendor/trueprofile/orm/src/Entity/Partner.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-trueprofile.io/vendor/trueprofile/orm/src/Entity/User.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/.env.local">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/admin/basic_config.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/admin/entities/data_transfer.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/admin/entities/document.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/admin/entities/document_product.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/admin/entities/true_proof.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/admin/menu.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/knp_snappy.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/security.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/packages/sensio_framework_extra.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/config/services.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/Products/Document2Controller.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/Products/DocumentController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/Products/DocumentProductController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/SingleCheckController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/TrueProofEntityController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/User1Controller.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/User2VeriflowController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/UserCaseController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/UserManagementController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Controller/UserProController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Form/DocumentType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Form/PartnerType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/public/js/fileinput.min.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/views/Partner/Voucher/new.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/views/Products/Document/new-edit.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/views/Products2/DocumentProduct/form.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/views/Products2/DocumentProduct/list.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/views/Products2/DocumentProduct/new.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/views/ProductsImprove/DocumentProduct/edit.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/views/ProductsImprove/DocumentProduct/form.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Resources/views/ProductsImprove/DocumentProduct/new.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Service/Extensions/UseCaseExtension.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Service/Filter/Query/DocumentProductQueryBuilder.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Service/Filter/Query/TrueProofEntityQueryBuilder.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Service/KPIs/Transaction.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/AdminBundle/Service/SingleCheck/TrueProofNotarizationManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Controller/Api/AuthController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Controller/Api/DownloadController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Controller/Api/FilterController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Controller/Api/MemberController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Controller/Api/SubscriptionController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Controller/Api/TransactionController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Controller/Api/TwoFactorController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/EventListener/JWTCreatedListener.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Http/Requests/BaseRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Repository/UserRepository.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Security/ApiAuthenticator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Auth/LoginService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/BaseListService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Download/DownloadService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Download/SubscriptionDownloadService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Download/TransactionDownloadService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Log/LogService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Member/MemberDetailService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Member/MemberService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Report/MyReportService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Subscription/SubscriptionService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Transaction/TransactionService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/V1/DataTransfer/DataMappingService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/V1/MailService/SendEmailService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/V1/Manager/UserManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/V1/Object/Message/SendMailMessage.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Service/Verification/VerificationService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Transformers/BaseTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Transformers/SubscriptionTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/src/Transformers/TransactionTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/templates/bundles/EasyAdminBundle/default/list.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/templates/easy_admin/SingleCheck/list/trueproof.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/templates/easy_admin/TrueProof/list/duplicateInfo.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/templates/easy_admin/UserCase/list/partner.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/var/log/dev-2020-10-08.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/vendor/trueprofile/orm/src/Entity/DocCat.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/vendor/trueprofile/orm/src/Entity/DocumentProduct.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/vendor/trueprofile/orm/src/Entity/MapPackage.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/vendor/trueprofile/orm/src/Entity/User.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.admin.trueprofile.io/vendor/trueprofile/orm/src/Entity/UserCase.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api.trueprofile.io/public/index.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-config-sample.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/salient/header.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/salient/style.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/twentytwenty-child/assets/css/responsive.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/twentytwenty-child/footer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/twentytwenty-child/functions.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/twentytwenty-child/header.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/twentytwenty-child/index.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/twentytwenty-child/style.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/twentytwenty/header.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blog.trueprofile.io/wp-content/themes/twentytwenty/style.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../demo/logs/access.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../demo/src/Command/AddUserCommand.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../demo/src/Controller/Admin/BlogController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../demo/src/Form/PostType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../orm.trueprofile.io/src/Entity/Transaction.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../orm.trueprofile.io/src/Entity/User.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/packages/easy_admin.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/packages/messenger.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/packages/security.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/packages/twig.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/routes.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/routes/easy_admin.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/services.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/public/index.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Command/CreateUserCommanTestCommand.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Command/CreateUserCommand.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/AdminController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/BlogController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/BrandNewController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/DefaultController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/HomeController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/LeapYearController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/PostController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/ProductController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/RegistrationController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/SecurityController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/TaskController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Controller/UserController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/DataFixtures/PostFixtures.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/DataFixtures/UserFixtures.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Entity/Category.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Entity/LeapYear.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Entity/Post.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Entity/Product.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Entity/Task.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Entity/User.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/EventSubscriber/EasyAdminSubscriber.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Form/CreatePostType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Form/DateTimePickerType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Form/RegistrationFormType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Form/TaskType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Message/SendNotification.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/MessageHandler/SendNotificationHandler.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Migrations/Version20200325074703.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Repository/ProductRepository.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Security/LoginFormAuthenticator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Security/TokenAuthenticator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Security/Voter/PostVoter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Tests/Command/CreateUserCommanTestCommand.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Utils/Caculator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Utils/Calculator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Utils/Email.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Utils/FrameWork.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Utils/StringHelper.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Utils/Validator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/admin/form.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/base.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/brand_new/index.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/home/index.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/post/create.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/post/edit.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/post/index.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/post/new.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/product/show.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/registration/register.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/task/form.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tests/Controller/PostControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tests/Util/CalculatorTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tests/Utils/CalculatorTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tests/Utils/EmailTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tests/Utils/FrameWork.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tests/Utils/FrameworkTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/translations/security.en.xlf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/vendor/symfony/security-core/Exception/CustomUserMessageAuthenticationException.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

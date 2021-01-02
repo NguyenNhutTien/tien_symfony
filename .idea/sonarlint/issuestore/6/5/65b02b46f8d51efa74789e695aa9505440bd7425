@@ -1,0 +1,6 @@
+
+Q	php:S1808I"6Put exactly one space after comma separated arguments.(„Ù¢=8¬Éû’.
+M	php:S14812"2Remove this unused "$entityManger" local variable.(‡ôÇ8™Ş¹ü.
+:php:S125;"Remove this commented out code.(—‹½8õ¹ü.
+:php:S125="Remove this commented out code.(²¯ğÇ8õ¹ü.
+:php:S1259"Remove this commented out code.(Ğ²òš8õ¹ü.
