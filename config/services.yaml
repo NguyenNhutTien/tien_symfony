@@ -4,12 +4,19 @@
 # Put parameters here that don't need to change on each machine where the app is deployed
 # https://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
 parameters:
+    amazon_key: 'AKIAWU23W5ZK35TJBHVW'
+    amazon_secret: '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'
+    amazon_region: 'ap-southeast-1'
+    sendgrid_api_key: '%env(SENDGRID_API_KEY)%'
 
 services:
     # default configuration for services in *this* file
     _defaults:
         autowire: true      # Automatically injects dependencies in your services.
         autoconfigure: true # Automatically registers your services as commands, event subscribers, etc.
+        bind:
+            $sendgridApiKey: '%sendgrid_api_key%'
+
 
     # makes classes in src/ available to be used as services
     # this creates a service per class whose id is the fully-qualified class name
@@ -29,3 +36,15 @@ services:
     App\MessageHandler\:
         resource: '../src/MessageHandler/*'
         tags: ['messenger.message_handler']
+
+    demo_storage:
+        class: App\Services\AmazonS3Service
+        arguments:
+            $bucket: "tien-first"
+            $s3arguments:
+                credentials:
+                    key: "%amazon_key%"
+                    secret: "%amazon_secret%"
+                region: "%amazon_region%"
+                version: "2006-03-01"
+        public: true

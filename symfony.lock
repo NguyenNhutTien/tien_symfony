@@ -1,4 +1,10 @@
 {
+    "aws/aws-crt-php": {
+        "version": "v1.0.2"
+    },
+    "aws/aws-sdk-php": {
+        "version": "3.209.6"
+    },
     "doctrine/annotations": {
         "version": "1.0",
         "recipe": {
@@ -157,6 +163,9 @@
     "monolog/monolog": {
         "version": "2.0.2"
     },
+    "mtdowling/jmespath.php": {
+        "version": "2.6.1"
+    },
     "myclabs/deep-copy": {
         "version": "1.9.5"
     },
@@ -288,6 +297,12 @@
     "sebastian/version": {
         "version": "3.0.0"
     },
+    "sendgrid/php-http-client": {
+        "version": "3.14.1"
+    },
+    "sendgrid/sendgrid": {
+        "version": "7.11.2"
+    },
     "sensio/framework-extra-bundle": {
         "version": "5.2",
         "recipe": {
@@ -299,6 +314,9 @@
         "files": [
             "config/packages/sensio_framework_extra.yaml"
         ]
+    },
+    "starkbank/ecdsa": {
+        "version": "0.0.5"
     },
     "symfony/asset": {
         "version": "v5.0.5"
