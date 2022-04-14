@@ -4,8 +4,8 @@
 # Put parameters here that don't need to change on each machine where the app is deployed
 # https://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
 parameters:
-    amazon_key: 'AKIAWU23W5ZK35TJBHVW'
-    amazon_secret: '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'
+    amazon_key: ''
+    amazon_secret: ''
     amazon_region: 'ap-southeast-1'
     sendgrid_api_key: '%env(SENDGRID_API_KEY)%'
 
